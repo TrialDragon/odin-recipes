@@ -1,0 +1,19 @@
+html {
+	background-color: rgb(76, 118, 167);
+}
+
+.title {
+	background-color: coral;
+	color: white;
+	text-align: center;
+	font-size: 36px;
+	font-family: "Brush Script MT", cursive;
+}
+
+.recipe-link {
+	background-color: rgb(32, 114, 57);
+	color: rgb(255, 207, 49);
+	font-size: 13px;
+	font-family: 'Courier New', Courier, monospace;
+}
+
